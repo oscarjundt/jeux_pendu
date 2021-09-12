@@ -1,0 +1,11 @@
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\bin\Debug\pendu_vrais.exe.config
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\bin\Debug\pendu_vrais.exe
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\bin\Debug\pendu_vrais.pdb
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.csprojAssemblyReference.cache
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.Form1.resources
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.Properties.Resources.resources
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.exe
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.pdb
+C:\Users\oscar\source\repos\pendu_vrais\pendu_vrais\obj\Debug\pendu_vrais.Form2.resources
